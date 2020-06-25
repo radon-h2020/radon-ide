@@ -130,7 +130,7 @@ components:
 	alias: radon-dt
   - type: chePlugin
     reference: >-
-      https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-defect-predictor/0.0.2/meta.yaml
+      https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-defect-predictor/latest/meta.yaml
 	alias: radon-dpt
   - type: chePlugin
     reference: >-
