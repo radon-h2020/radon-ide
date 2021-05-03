@@ -1,4 +1,5 @@
-
+---
+apiVersion: 1.0.0
 metadata:
   generateName: radon-workspace-
 projects:
@@ -253,4 +254,3 @@ components:
     reference: >-
       https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-cicd-plugin/latest/meta.yaml
     alias: radon-cicd-plugin
-apiVersion: 1.0.0

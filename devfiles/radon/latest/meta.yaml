@@ -1,6 +1,6 @@
 ---
-displayName: RADON Workspace
-description: RADON Stack
+displayName: RADON
+description: Stack with RADON Toolchain
 tags: ["RADON"]
 icon: /images/radon.svg
 globalMemoryLimit: 3372Mi
