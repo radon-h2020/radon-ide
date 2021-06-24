@@ -19,6 +19,8 @@ This plugin provides a RADON menu with custom RADON commands.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release
+
+The deployment process of a CSAR is managed by a Jenkins job. The job is triggered when a CSAR is uploaded on the temporary repository "radon-csar" available here https://github.com/radon-h2020/radon-csars
