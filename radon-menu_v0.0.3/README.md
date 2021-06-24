@@ -32,4 +32,4 @@ The CI process of a CSAR is managed by a Jenkins job. The user can upload the CS
 
 ### 0.0.3
 
-The plugin has been updated to to configure and trigger CI/CD pipelines on a Jenkins platform.
+The plugin has been updated to configure and trigger CI/CD pipelines on a Jenkins platform using a configuration file (i.e., a yaml file) generated form a CSAR.
