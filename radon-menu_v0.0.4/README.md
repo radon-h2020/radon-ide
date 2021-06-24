@@ -35,5 +35,5 @@ The plugin has been updated to configure and trigger CI/CD pipelines on a Jenkin
 
 ### 0.0.4
 
-In the final relase of this plugin (v0.0.4) the CI/CD capabilities have been moved to another plugin (i.e., radon-cicd-plugin).
+The plugin has been updated to move the CI/CD capabilities to another plugin (i.e., radon-cicd-plugin).
 
