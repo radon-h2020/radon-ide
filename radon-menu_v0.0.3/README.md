@@ -4,10 +4,10 @@ This plugin provides a RADON menu with custom RADON commands.
 
 ## Features
 
-- RADON command to trigger CI of a CSAR
-- RADON command to show CI status
-- RADON command to open the RADON documentation page
-- RADON command to open the RADON Monitoring page
+- RADON commands to configure and trigger CI/CD pipelines on a Jenkins platform
+- RADON command to open the RADON Help Page
+- RADON command to open the RADON Monitoring Page
+- RADON command to open the RADON Show Deployment Page 
 
 ## Requirements
 
@@ -29,3 +29,7 @@ The deployment process of a CSAR is managed by a Jenkins job. The job is trigger
 ### 0.0.2
 
 The CI process of a CSAR is managed by a Jenkins job. The user can upload the CSAR on the Template Library and trigger a Jenkins job which will manage the deployment process of the CSAR interacting with the Orchestrator.
+
+### 0.0.3
+
+The plugin has been updated to to configure and trigger CI/CD pipelines on a Jenkins platform.
