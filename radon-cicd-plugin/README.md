@@ -1,4 +1,4 @@
-# radon-menu README
+# radon-cicd-plugin README
 
 This plugin provides CI/CD capabilities in order to configure and trigger a CI/CD pipeline in a Jenkins server.
 
