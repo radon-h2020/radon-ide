@@ -5,7 +5,7 @@ Access to the RADON IDE
 
 Use the following `form <https://mailchi.mp/fe5357445dba/radon-ide-access-request/>`_ to request access to the RADON IDE. An account will be created and the credentials will be sent via the email specified in the form, along with the URL to the RADON Stack devfile.
 
-After receiving the credentials, login to the RADON IDE (Figure 1) connecting to the `Che Login page <http://che-che.217.172.12.178.nip.io>`_ to access the main Che dashboard (Figure 2). In the *Workspaces tab* the list of already created workspaces is visible and it is possible to create new ones.
+After receiving the credentials, login to the RADON IDE (Figure 1) connecting to the `Che Login page <https://che-eclipse-che.91.109.58.122.nip.io/>`_ to access the main Che dashboard (Figure 2). In the *Workspaces tab* the list of already created workspaces is visible and it is possible to create new ones.
 
 .. figure:: imgs/IDE_Login.jpg
 
@@ -17,8 +17,8 @@ After receiving the credentials, login to the RADON IDE (Figure 1) connecting to
 
 Create a RADON workspace
 """"""""""""""""""""""""
-In the Eclipse Che dashboard select *Get Started* tab and then *Custom Workspace*. Copy the URL of the *RADON Devfile* received by email and paste it in the field *URL of devfile*
-under *Devfile* section. Then click on *Load devfile* and once the RADON devfile has been loaded click on the *Create & Open* button (Figure 3).
+In the Eclipse Che dashboard select *Create Workspace* tab and then *Custom Workspace*. Copy the URL of the *RADON Devfile* received by email and paste it in the field *Enter devfile URL*
+under *Devfile* section. Then click on *Load Devfile* and once the RADON devfile has been loaded click on the *Create & Open* button (Figure 3).
 
 .. figure:: imgs/CreateNewRADONWorkspace.jpg
 
@@ -550,7 +550,7 @@ Example:
       {
          "CSAR_name": "DemoBlueprintAws",
          "CSAR_version": "0.1.0",
-         "Jenkins_URL": "http://217.172.12.165:8080/",
+         "Jenkins_URL": "http://91.109.58.116:8080/",
          "Jenkins_username": "radonTest",
          "Jenkins_password": "radonTest",
          "Jenkins_job": "job/ENG/job/IDE-plugin/job/Template-Library-Deploy",
