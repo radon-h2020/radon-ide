@@ -5,13 +5,13 @@ Access to the RADON IDE
 
 Use the following `form <https://mailchi.mp/fe5357445dba/radon-ide-access-request/>`_ to request access to the RADON IDE. An account will be created and the credentials will be sent via the email specified in the form, along with the URL to the RADON Stack devfile.
 
-After receiving the credentials, login to the RADON IDE (Figure 1) connecting to the `Che Login page <https://che-eclipse-che.91.109.58.122.nip.io/>`_ to access the main Che dashboard (Figure 2). In the *Workspaces tab* the list of already created workspaces is visible and it is possible to create new ones.
+After receiving the credentials, login to the RADON IDE (Figure 1) connecting to the `Che Login page <http://che-che.217.172.12.178.nip.io>`_ to access the main Che dashboard (Figure 2). In the *Workspaces tab* the list of already created workspaces is visible and it is possible to create new ones.
 
 .. figure:: imgs/IDE_Login.jpg
 
    Figure 1: RADON IDE Login.
 
-.. figure:: imgs/EclipseCheDashboard_New.jpg
+.. figure:: imgs/EclipseCheDashboard_2.jpg
 
    Figure 2: IDE Dashboard.
 
