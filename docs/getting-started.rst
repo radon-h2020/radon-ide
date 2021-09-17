@@ -11,7 +11,7 @@ After receiving the credentials, login to the RADON IDE (Figure 1) connecting to
 
    Figure 1: RADON IDE Login.
 
-.. figure:: imgs/EclipseCheDashboard_2.jpg
+.. figure:: imgs/EclipseCheDashboard_2.jpg 
 
    Figure 2: IDE Dashboard.
 
